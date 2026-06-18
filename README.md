@@ -15,6 +15,7 @@
 ## Array
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 ## Divide and Conquer
@@ -40,5 +41,14 @@
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
