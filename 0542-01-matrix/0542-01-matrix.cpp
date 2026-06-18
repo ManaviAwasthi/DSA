@@ -30,7 +30,7 @@ public:
                 int nr=r+dr[i];
                 int nc=c+dc[i];
 
-                if (nr>=0 && nr<m && nc>=0 && nc<n && !vis[nr][nc] && mat[nr][nc]==1){
+                if (nr>=0 && nr<m && nc>=0 && nc<n && !vis[nr][nc]){
                     vis[nr][nc]=1;
                     q.push({{nr,nc},d+1});
                     }
