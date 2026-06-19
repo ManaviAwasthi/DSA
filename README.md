@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
@@ -43,6 +44,7 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 ## Dynamic Programming
@@ -53,13 +55,16 @@
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
