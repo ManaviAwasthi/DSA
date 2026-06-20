@@ -22,13 +22,27 @@ private:
         }
         return true;
     }
+
+    bool dfs(int start, int col, vector<vector<int>>& v, vector <int> &vis){
+        vis[start]=col;
+        for (auto it: v[start]){
+            if (vis[it]==-1){
+                if (dfs(it,!col,v,vis)==false) return false;
+            }
+            else if (vis[it]==vis[start]){
+                return false;
+            }
+        }
+
+        return true;
+    }
 public:
     bool isBipartite(vector<vector<int>>& v) {
         int n=v.size();
         vector <int> vis(n,-1);
         for (int i=0; i<n;i++){
             if (vis[i]==-1){
-                if (bfs(i,v,vis)==false) return false;
+                if (dfs(i,0,v,vis)==false) return false;
             }
         }
         return true; 
