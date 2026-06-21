@@ -59,22 +59,26 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
+| [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 ## Greedy
 |  |
 | ------- |
