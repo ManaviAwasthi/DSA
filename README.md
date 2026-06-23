@@ -21,6 +21,7 @@
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
+| [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
