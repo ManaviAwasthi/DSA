@@ -20,6 +20,7 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
+## Hash Table
+|  |
+| ------- |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 <!---LeetCode Topics End-->
