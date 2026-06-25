@@ -4,12 +4,14 @@
 ## String
 |  |
 | ------- |
+| [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 ## Simulation
 |  |
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
+| [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -32,6 +34,7 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
+| [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 ## Tree
 |  |
 | ------- |
