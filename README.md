@@ -131,6 +131,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManaviAwasthi/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
 | ------- |
