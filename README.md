@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/ManaviAwasthi/dsa/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
