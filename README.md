@@ -142,6 +142,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManaviAwasthi/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManaviAwasthi/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Hash Table
 |  |
@@ -187,4 +188,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ManaviAwasthi/dsa/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ManaviAwasthi/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
