@@ -22,6 +22,7 @@
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
+| [0162-find-peak-element](https://github.com/ManaviAwasthi/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/ManaviAwasthi/dsa/tree/master/0238-product-of-array-except-self) |
@@ -165,6 +166,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/ManaviAwasthi/dsa/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0275-h-index-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0275-h-index-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
