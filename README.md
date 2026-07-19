@@ -1,4 +1,4 @@
-# dsa
+# Data Structure and Algorithms
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
