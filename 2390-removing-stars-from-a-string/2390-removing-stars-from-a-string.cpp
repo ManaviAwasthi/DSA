@@ -16,7 +16,7 @@ public:
       while (!st.empty()){
         char c= st.top();
         st.pop();
-        ans+=c;
+        ans.push_back(c);
       }
       reverse (ans.begin(), ans.end()); 
       return ans;
