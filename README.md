@@ -39,6 +39,7 @@
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -135,6 +136,7 @@
 | [0274-h-index](https://github.com/ManaviAwasthi/dsa/tree/master/0274-h-index) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -164,6 +166,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -175,6 +178,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Binary Search
 |  |
 | ------- |
