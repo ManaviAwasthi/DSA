@@ -3,29 +3,22 @@ public:
     vector<vector<int>> kSmallestPairs(vector<int>& nums1, vector<int>& nums2, int k) {
         int n1=nums1.size();
         int n2=nums2.size();
-        priority_queue <pair<int, pair <int,int>>> pq;
-        for (int i=0; i<n1; i++){
-            for (int j=0; j<n2; j++){
-                int sum= nums1[i]+nums2[j];
-                if (pq.size()<k) {
-                    pq.push({sum, {nums1[i],nums2[j]}});
-                }
-                else if (sum <pq.top().first){
-                    pq.pop();
-                    pq.push({sum, {nums1[i],nums2[j]}});
-                }
-                else if (sum >= pq.top().first){
-                    break;
-                }
+        priority_queue<pair<int, pair<int,int>>,vector<pair<int, pair<int,int>>>,greater<pair<int, pair<int,int>>>> pq;
+        vector <vector <int>> ans;
+        for (int i=0; i<min(n1,k); i++){
+            pq.push({nums1[i]+nums2[0],{i,0}});
+        }
+        while (k-- && !pq.empty()){
+            int i= pq.top().second.first;
+            int j= pq.top().second.second;
+            pq.pop();
+
+            ans.push_back({nums1[i],nums2[j]});
+            if (j+1<n2){
+                pq.push({nums1[i]+nums2[j+1], {i,j+1}});
             }
         }
-        vector <vector <int>> ans;
-        while (!pq.empty()){
-            int i=pq.top().second.first;
-            int j=pq.top().second.second;
-            pq.pop();
-            ans.push_back({i,j});
-        }
+        
         return ans;
     }
 };
