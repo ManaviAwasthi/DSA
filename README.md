@@ -46,6 +46,7 @@
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -154,6 +155,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -218,6 +220,7 @@
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManaviAwasthi/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
