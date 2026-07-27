@@ -52,6 +52,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -98,6 +99,7 @@
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dynamic Programming
 |  |
@@ -112,6 +114,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
