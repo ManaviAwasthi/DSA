@@ -18,7 +18,8 @@ public:
             rows[pos].push_back(s[i]);
             pos+=d;
         }
-        string res="";
+        string res;
+        res.reserve(n);
         for (auto &it: rows){
             for (char c: it){
                 res.push_back(c);
