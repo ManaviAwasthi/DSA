@@ -5,7 +5,7 @@ public:
         if (r==1 || r>=n){
             return s;
         }
-        vector <vector <char>> rows(r);
+        vector <string> rows(r);
         int pos=0;
         int d;
         for (int i=0; i<n;i++){
@@ -20,10 +20,8 @@ public:
         }
         string res;
         res.reserve(n);
-        for (auto &it: rows){
-            for (char c: it){
-                res.push_back(c);
-            }
+        for (string it: rows){
+            res+=it;
         }
         return res;
         
