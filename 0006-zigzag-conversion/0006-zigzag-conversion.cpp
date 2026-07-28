@@ -5,7 +5,7 @@ public:
         if (r==1 || r>=n){
             return s;
         }
-        vector <vector <char>> rows(n);
+        vector <vector <char>> rows(r);
         int pos=0;
         int d;
         for (int i=0; i<n;i++){
