@@ -1,9 +1,12 @@
 class Solution {
+    //TC: O(N) 
+    //SC: O(N)
 public:
     string smallestPalindrome(string s) {
         int n= s.length();
         int mid= n/2;
         vector <int> freq (26,0);
+        //Counting sort 
         for (int i=0; i<mid; i++){
             freq[s[i]-'a']++;
         }
