@@ -1,6 +1,6 @@
 class Solution {
     //TC: O(N) 
-    //SC: O(N)
+    //SC: O(26)= O(1)
 public:
     string smallestPalindrome(string s) {
         int n= s.length();
