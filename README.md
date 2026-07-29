@@ -48,6 +48,7 @@
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +112,7 @@
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,4 +284,12 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/ManaviAwasthi/dsa/tree/master/0224-basic-calculator) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
