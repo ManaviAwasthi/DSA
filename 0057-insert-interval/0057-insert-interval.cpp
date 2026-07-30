@@ -1,23 +1,23 @@
 class Solution {
-    //brute force: use merge function to just merge the intervals after inserting new interval and sorting
-    vector<vector<int>> merge(vector<vector<int>>& v) {
-        int n=v.size();
-        vector<vector<int>> ans;
-        for (int i=0;i<n;i++){
-            if(ans.empty() || v[i][0]> ans.back()[1]){
-                ans.push_back(v[i]);
-            }
-            else{
-                ans.back()[1]=max(ans.back()[1], v[i][1]);
-            }
-        }
-        return ans;
-    }
 public:
-    vector<vector<int>> insert(vector<vector<int>>& intervals, vector<int>& newInterval) {
-        intervals.push_back(newInterval);
-        sort (intervals.begin(), intervals.end());
-        vector <vector <int>> ans= merge(intervals);
+    vector<vector<int>> insert(vector<vector<int>>& v, vector<int>& in) {
+        int n=v.size();
+        vector <vector <int>> ans;
+        int i=0;
+        while (i<n && v[i][1]<in[0]){
+            ans.push_back(v[i]);
+            i++;
+        }
+        while (i<n && v[i][0]<=in[1]){
+            in[0]=min(in[0],v[i][0]);
+            in[1]=max(in[1],v[i][1]);
+            i++;
+        }
+        ans.push_back(in);
+        while (i<n){
+            ans.push_back(v[i]);
+            i++;
+        }
         return ans;
     }
 };
