@@ -1,4 +1,5 @@
 class Solution {
+    //brute force: use merge function to just merge the intervals after inserting new interval and sorting
     vector<vector<int>> merge(vector<vector<int>>& v) {
         int n=v.size();
         vector<vector<int>> ans;
