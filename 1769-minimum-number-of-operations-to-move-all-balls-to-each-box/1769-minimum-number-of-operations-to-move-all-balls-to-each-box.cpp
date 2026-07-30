@@ -2,21 +2,26 @@ class Solution {
 public:
     vector<int> minOperations(string s) {
         int n=s.length();
-        vector <int> ans;
-        vector <int> pos;
+        vector <int> ans(n,0);
+        int balls=0;
+        int ops=0;
         for (int i=0; i<n; i++){
+            ans[i]+=ops;
             if (s[i]=='1'){
-                pos.push_back(i);
+                balls++;
             }
+            ops+=balls;
         }
-        for (int i=0; i<n; i++){
-            int sum=0;
-            for (int idx: pos){
-                int diff= abs(i-idx);
-                sum+=diff;
+        balls=0;
+        ops=0;
+        for (int i=n-1; i>=0; i--){
+            ans[i]+=ops;
+            if (s[i]=='1'){
+                balls++;
             }
-            ans.push_back(sum);
+            ops+=balls;
         }
+
         return ans;
     }
 };
