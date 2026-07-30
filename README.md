@@ -21,6 +21,7 @@
 | ------- |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ManaviAwasthi/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -289,6 +290,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/ManaviAwasthi/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
