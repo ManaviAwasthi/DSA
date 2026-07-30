@@ -30,6 +30,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/ManaviAwasthi/dsa/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/ManaviAwasthi/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
