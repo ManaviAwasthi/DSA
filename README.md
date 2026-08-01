@@ -20,6 +20,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0054-spiral-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/ManaviAwasthi/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ManaviAwasthi/dsa/tree/master/0016-3sum-closest) |
+| [0054-spiral-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManaviAwasthi/dsa/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
@@ -108,6 +110,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0054-spiral-matrix) |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
