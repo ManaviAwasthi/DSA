@@ -223,6 +223,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/ManaviAwasthi/dsa/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ManaviAwasthi/dsa/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ManaviAwasthi/dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0224-basic-calculator](https://github.com/ManaviAwasthi/dsa/tree/master/0224-basic-calculator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
