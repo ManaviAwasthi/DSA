@@ -190,6 +190,7 @@
 | [0016-3sum-closest](https://github.com/ManaviAwasthi/dsa/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/ManaviAwasthi/dsa/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -257,6 +258,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
@@ -271,6 +273,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManaviAwasthi/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -282,6 +285,7 @@
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -328,4 +332,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
