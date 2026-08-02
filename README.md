@@ -57,6 +57,7 @@
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
@@ -126,6 +127,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
+| [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 ## Breadth-First Search
 |  |
@@ -223,6 +225,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -323,4 +326,5 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
