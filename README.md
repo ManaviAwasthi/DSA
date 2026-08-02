@@ -6,6 +6,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/ManaviAwasthi/dsa/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/ManaviAwasthi/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0151-reverse-words-in-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/ManaviAwasthi/dsa/tree/master/0224-basic-calculator) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
