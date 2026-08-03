@@ -65,6 +65,7 @@
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -130,6 +131,7 @@
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -333,8 +336,17 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
