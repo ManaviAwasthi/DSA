@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/ManaviAwasthi/dsa/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/ManaviAwasthi/dsa/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ManaviAwasthi/dsa/tree/master/0057-insert-interval) |
@@ -242,6 +243,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/ManaviAwasthi/dsa/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
