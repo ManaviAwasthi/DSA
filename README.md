@@ -55,6 +55,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
+| [0525-contiguous-array](https://github.com/ManaviAwasthi/dsa/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
@@ -219,6 +220,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/ManaviAwasthi/dsa/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/ManaviAwasthi/dsa/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -246,6 +248,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ManaviAwasthi/dsa/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
+| [0525-contiguous-array](https://github.com/ManaviAwasthi/dsa/tree/master/0525-contiguous-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
