@@ -282,6 +282,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/ManaviAwasthi/dsa/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -364,4 +365,8 @@
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/ManaviAwasthi/dsa/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
