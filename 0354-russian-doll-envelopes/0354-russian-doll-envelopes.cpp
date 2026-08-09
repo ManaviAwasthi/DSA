@@ -6,7 +6,7 @@ public:
             return a[0]<b[0];
         });
         vector <int> ans;
-        for (auto it: v){
+        for (auto &it: v){
             int ht= it[1];
             auto itr= lower_bound(ans.begin(),ans.end(),ht);
             if (itr==ans.end()) ans.push_back(ht);
