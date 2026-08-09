@@ -50,6 +50,7 @@
 | [0238-product-of-array-except-self](https://github.com/ManaviAwasthi/dsa/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ManaviAwasthi/dsa/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0275-h-index-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManaviAwasthi/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -130,6 +131,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
@@ -196,6 +198,7 @@
 | [0056-merge-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/0056-merge-intervals) |
 | [0274-h-index](https://github.com/ManaviAwasthi/dsa/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
+| [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
@@ -279,6 +282,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0275-h-index-ii) |
+| [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
@@ -356,4 +360,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
