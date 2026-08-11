@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/ManaviAwasthi/dsa/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/ManaviAwasthi/dsa/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0054-spiral-matrix) |
@@ -251,6 +252,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/ManaviAwasthi/dsa/tree/master/0041-first-missing-positive) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManaviAwasthi/dsa/tree/master/0380-insert-delete-getrandom-o1) |
