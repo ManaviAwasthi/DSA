@@ -109,6 +109,7 @@
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Monotonic Stack
 |  |
@@ -152,6 +153,7 @@
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -165,6 +167,7 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
+| [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
