@@ -82,6 +82,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -262,6 +263,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
 |  |
@@ -269,6 +271,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0209-minimum-size-subarray-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
 |  |
 | ------- |
