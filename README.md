@@ -61,6 +61,7 @@
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ManaviAwasthi/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
@@ -207,6 +208,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -270,6 +272,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ManaviAwasthi/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ManaviAwasthi/dsa/tree/master/0209-minimum-size-subarray-sum) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Two Pointers
@@ -281,6 +284,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
@@ -293,6 +297,7 @@
 | [0275-h-index-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/ManaviAwasthi/dsa/tree/master/0278-first-bad-version) |
 | [0354-russian-doll-envelopes](https://github.com/ManaviAwasthi/dsa/tree/master/0354-russian-doll-envelopes) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/ManaviAwasthi/dsa/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManaviAwasthi/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -303,6 +308,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ManaviAwasthi/dsa/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
+| [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
