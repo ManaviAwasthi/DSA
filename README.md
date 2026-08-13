@@ -70,6 +70,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
+| [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/ManaviAwasthi/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -131,6 +132,7 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
+| [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -154,6 +156,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ManaviAwasthi/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -169,6 +172,7 @@
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ManaviAwasthi/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -180,6 +184,7 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
+| [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
