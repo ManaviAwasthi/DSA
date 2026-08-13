@@ -1,9 +1,9 @@
 class Solution {
+     vector <int> dr= {-1,0,1,0};
+     vector <int> dc= {0,1,0,-1};
     void bfs(int sr, int sc, vector<vector<int>>& grid, vector <vector <int>> &vis){
         int m=grid.size();
         int n=grid[0].size();
-        vector <int> dr= {-1,0,1,0};
-        vector <int> dc= {0,1,0,-1};
         queue <pair<int,int>> q;
         q.push({sr,sc});
 
@@ -50,8 +50,8 @@ public:
         }
 
         int ans=0;
-        for (int i=0; i<m; i++){
-            for (int j=0; j<n; j++){
+        for (int i=1; i<m-1; i++){
+            for (int j=1; j<n-1; j++){
                 if (grid[i][j]==0 && !vis[i][j]){
                     vis[i][j]=1;
                     ans++;
