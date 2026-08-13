@@ -1,9 +1,11 @@
 class Solution {
-    void bfs(queue <pair<int,int>> q, vector<vector<int>>& grid, vector <vector <int>> &vis){
+    void bfs(int sr, int sc, vector<vector<int>>& grid, vector <vector <int>> &vis){
         int m=grid.size();
         int n=grid[0].size();
         vector <int> dr= {-1,0,1,0};
         vector <int> dc= {0,1,0,-1};
+        queue <pair<int,int>> q;
+        q.push({sr,sc});
 
         while (!q.empty()){
             int r= q.front().first;
@@ -25,30 +27,25 @@ public:
     int closedIsland(vector<vector<int>>& grid) {
         int m=grid.size();
         int n=grid[0].size();
-        queue <pair<int,int>> q;
         vector <vector <int>> vis (m, vector <int> (n,0));
         for (int i=0; i<m; i++){
             if (grid[i][0]==0 && !vis[i][0]){
                 vis[i][0]=1;
-                q.push({i,0});
-                bfs(q,grid,vis);
+                bfs(i,0,grid,vis);
             }
             if (grid[i][n-1]==0 && !vis[i][n-1]){
                 vis[i][n-1]=1;
-                q.push({i,n-1});
-                bfs(q,grid,vis);
+                bfs(i,n-1,grid,vis);
             }
         }
         for (int j=0; j<n; j++){
             if (grid[0][j]==0 && !vis[0][j]){
                 vis[0][j]=1;
-                q.push({0,j});
-                bfs(q,grid,vis);
+                bfs(0,j,grid,vis);
             }
             if (grid[m-1][j]==0 && !vis[m-1][j]){
                 vis[m-1][j]=1;
-                q.push({m-1,j});
-                bfs(q,grid,vis);
+                bfs(m-1, j, grid,vis);
             }
         }
 
@@ -58,8 +55,7 @@ public:
                 if (grid[i][j]==0 && !vis[i][j]){
                     vis[i][j]=1;
                     ans++;
-                    q.push({i,j});
-                    bfs(q,grid,vis);
+                    bfs(i,j ,grid,vis);
 
                 }
             }
