@@ -62,6 +62,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
+| [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/ManaviAwasthi/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
@@ -131,6 +132,7 @@
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
@@ -153,6 +155,7 @@
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ManaviAwasthi/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
@@ -169,6 +172,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/ManaviAwasthi/dsa/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
@@ -182,6 +186,7 @@
 | ------- |
 | [0130-surrounded-regions](https://github.com/ManaviAwasthi/dsa/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [0785-is-graph-bipartite](https://github.com/ManaviAwasthi/dsa/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/ManaviAwasthi/dsa/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
