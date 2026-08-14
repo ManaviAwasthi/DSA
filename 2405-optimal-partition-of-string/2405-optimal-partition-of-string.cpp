@@ -2,15 +2,15 @@ class Solution {
 public:
     int partitionString(string s) {
         int n=s.length();
-        unordered_map <char,int> m;
+        unordered_set <char> st;
         int cnt=1;
         for (int i=0; i<n; i++){
             char c= s[i];
-            if (m.find(c)!=m.end()){
+            if (st.count(c)){
                 cnt++;
-                m.clear();
+                st.clear();
             }
-            m[c]=i;
+            st.insert(c);
         }
         return cnt;
     }
