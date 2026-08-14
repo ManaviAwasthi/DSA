@@ -263,6 +263,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
+| [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -350,6 +351,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManaviAwasthi/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -426,4 +428,8 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/ManaviAwasthi/dsa/tree/master/0797-all-paths-from-source-to-target) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
