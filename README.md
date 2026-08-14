@@ -14,6 +14,7 @@
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ManaviAwasthi/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManaviAwasthi/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -213,6 +214,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
@@ -283,6 +285,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sliding Window
