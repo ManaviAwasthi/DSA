@@ -24,16 +24,12 @@ public:
         }
         int ans=0;
         for (int i=0; i<n; i++){
-            if (v[i][i]<maxi[i][i]){
-                ans+=maxi[i][i]-v[i][i];
-            }
+            ans+=maxi[i][i]-v[i][i];
         }
         for (int i=0; i<n; i++){
             for (int j=0; j<n; j++){
                 if (i!=j){
-                    if (v[i][j]<maxi[i][j]){
-                        ans+=maxi[i][j]-v[i][j];
-                    }
+                    ans+=maxi[i][j]-v[i][j];
                 }
             }
         }
