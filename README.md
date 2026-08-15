@@ -67,6 +67,7 @@
 | [0704-binary-search](https://github.com/ManaviAwasthi/dsa/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManaviAwasthi/dsa/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManaviAwasthi/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -134,6 +135,7 @@
 | [0200-number-of-islands](https://github.com/ManaviAwasthi/dsa/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManaviAwasthi/dsa/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
@@ -211,6 +213,7 @@
 | [0134-gas-station](https://github.com/ManaviAwasthi/dsa/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManaviAwasthi/dsa/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ManaviAwasthi/dsa/tree/master/0502-ipo) |
+| [0807-max-increase-to-keep-city-skyline](https://github.com/ManaviAwasthi/dsa/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
