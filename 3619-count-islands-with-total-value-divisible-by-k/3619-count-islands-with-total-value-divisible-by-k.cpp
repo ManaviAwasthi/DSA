@@ -3,6 +3,7 @@ private:
     bool isvalid(int nr, int nc, int n, int m){
         return nr>=0 && nr<n && nc>=0 && nc<m;
     }
+    
     vector <int> dr= {-1,0,1,0};
     vector <int> dc= {0,1,0,-1};
 
