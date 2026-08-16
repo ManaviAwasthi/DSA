@@ -95,6 +95,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ManaviAwasthi/dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
