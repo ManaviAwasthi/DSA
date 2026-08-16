@@ -28,6 +28,7 @@
 | [2181-merge-nodes-in-between-zeros](https://github.com/ManaviAwasthi/dsa/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
+| [3100-water-bottles-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3100-water-bottles-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
@@ -274,6 +275,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3100-water-bottles-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3100-water-bottles-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ManaviAwasthi/dsa/tree/master/3536-maximum-product-of-two-digits) |
