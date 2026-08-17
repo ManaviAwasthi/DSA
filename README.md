@@ -73,6 +73,7 @@
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ManaviAwasthi/dsa/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0962-maximum-width-ramp](https://github.com/ManaviAwasthi/dsa/tree/master/0962-maximum-width-ramp) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
@@ -108,6 +109,7 @@
 | [0224-basic-calculator](https://github.com/ManaviAwasthi/dsa/tree/master/0224-basic-calculator) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/ManaviAwasthi/dsa/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
@@ -123,6 +125,7 @@
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
+| [0962-maximum-width-ramp](https://github.com/ManaviAwasthi/dsa/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Binary Tree
 |  |
@@ -319,6 +322,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ManaviAwasthi/dsa/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0295-find-median-from-data-stream](https://github.com/ManaviAwasthi/dsa/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/ManaviAwasthi/dsa/tree/master/0658-find-k-closest-elements) |
+| [0962-maximum-width-ramp](https://github.com/ManaviAwasthi/dsa/tree/master/0962-maximum-width-ramp) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Binary Search
