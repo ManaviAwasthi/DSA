@@ -250,6 +250,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/ManaviAwasthi/dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ManaviAwasthi/dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -286,6 +287,7 @@
 | [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/ManaviAwasthi/dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3100-water-bottles-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3100-water-bottles-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
