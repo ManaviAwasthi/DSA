@@ -84,6 +84,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManaviAwasthi/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManaviAwasthi/dsa/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ManaviAwasthi/dsa/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -286,6 +287,7 @@
 | [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ManaviAwasthi/dsa/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ManaviAwasthi/dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [3100-water-bottles-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3100-water-bottles-ii) |
@@ -459,4 +461,8 @@
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
+## Geometry
+|  |
+| ------- |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ManaviAwasthi/dsa/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 <!---LeetCode Topics End-->
