@@ -102,6 +102,7 @@
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/ManaviAwasthi/dsa/tree/master/3895-count-digit-appearances) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ManaviAwasthi/dsa/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -235,6 +236,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
+| [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ManaviAwasthi/dsa/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Sorting
 |  |
 | ------- |
