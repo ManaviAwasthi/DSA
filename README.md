@@ -89,6 +89,7 @@
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManaviAwasthi/dsa/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManaviAwasthi/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManaviAwasthi/dsa/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ManaviAwasthi/dsa/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
@@ -234,6 +235,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/ManaviAwasthi/dsa/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/ManaviAwasthi/dsa/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ManaviAwasthi/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/ManaviAwasthi/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ManaviAwasthi/dsa/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
