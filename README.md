@@ -104,6 +104,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/ManaviAwasthi/dsa/tree/master/3895-count-digit-appearances) |
+| [3903-smallest-stable-index-i](https://github.com/ManaviAwasthi/dsa/tree/master/3903-smallest-stable-index-i) |
 | [4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights](https://github.com/ManaviAwasthi/dsa/tree/master/4025-minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) |
 ## Divide and Conquer
 |  |
@@ -280,6 +281,7 @@
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/ManaviAwasthi/dsa/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
