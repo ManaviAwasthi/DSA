@@ -309,6 +309,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ManaviAwasthi/dsa/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManaviAwasthi/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/ManaviAwasthi/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/ManaviAwasthi/dsa/tree/master/3870-count-commas-in-range) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/ManaviAwasthi/dsa/tree/master/3895-count-digit-appearances) |
 ## Hash Table
