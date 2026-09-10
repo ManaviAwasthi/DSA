@@ -131,6 +131,7 @@
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManaviAwasthi/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ManaviAwasthi/dsa/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0654-maximum-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/0654-maximum-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManaviAwasthi/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +205,7 @@
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/ManaviAwasthi/dsa/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManaviAwasthi/dsa/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ManaviAwasthi/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/ManaviAwasthi/dsa/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/ManaviAwasthi/dsa/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManaviAwasthi/dsa/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
