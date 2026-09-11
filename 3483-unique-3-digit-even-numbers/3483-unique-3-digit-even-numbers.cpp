@@ -1,7 +1,7 @@
 class Solution {
 public:
     int totalNumbers(vector<int>& digits) {
-        int digitCount[10] = {0};
+        vector <int> digitCount(10,0);
         for (int d : digits) {
             digitCount[d]++;
         }
@@ -10,7 +10,7 @@ public:
             int ones = i % 10;
             int tens = (i / 10) % 10;
             int hundreds = i / 100;
-            int requiredCount[10] = {0};
+            vector <int> requiredCount(10,0);
             requiredCount[ones]++;
             requiredCount[tens]++;
             requiredCount[hundreds]++;
