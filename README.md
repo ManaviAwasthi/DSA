@@ -98,6 +98,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ManaviAwasthi/dsa/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/ManaviAwasthi/dsa/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ManaviAwasthi/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3531-count-covered-buildings](https://github.com/ManaviAwasthi/dsa/tree/master/3531-count-covered-buildings) |
@@ -331,6 +332,7 @@
 | [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/ManaviAwasthi/dsa/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ManaviAwasthi/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3531-count-covered-buildings](https://github.com/ManaviAwasthi/dsa/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ManaviAwasthi/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3941-password-strength](https://github.com/ManaviAwasthi/dsa/tree/master/3941-password-strength) |
@@ -396,6 +398,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ManaviAwasthi/dsa/tree/master/1291-sequential-digits) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ManaviAwasthi/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -422,6 +425,7 @@
 | ------- |
 | [0224-basic-calculator](https://github.com/ManaviAwasthi/dsa/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/ManaviAwasthi/dsa/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ManaviAwasthi/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Queue
 |  |
 | ------- |
