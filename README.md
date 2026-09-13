@@ -71,6 +71,7 @@
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/ManaviAwasthi/dsa/tree/master/0739-daily-temperatures) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ManaviAwasthi/dsa/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/ManaviAwasthi/dsa/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ManaviAwasthi/dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/ManaviAwasthi/dsa/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
@@ -156,6 +157,7 @@
 | [0542-01-matrix](https://github.com/ManaviAwasthi/dsa/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ManaviAwasthi/dsa/tree/master/0695-max-area-of-island) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ManaviAwasthi/dsa/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0835-image-overlap](https://github.com/ManaviAwasthi/dsa/tree/master/0835-image-overlap) |
 | [1222-queens-that-can-attack-the-king](https://github.com/ManaviAwasthi/dsa/tree/master/1222-queens-that-can-attack-the-king) |
 | [1254-number-of-closed-islands](https://github.com/ManaviAwasthi/dsa/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ManaviAwasthi/dsa/tree/master/1260-shift-2d-grid) |
