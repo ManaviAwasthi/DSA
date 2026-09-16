@@ -176,6 +176,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/ManaviAwasthi/dsa/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManaviAwasthi/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -288,6 +289,7 @@
 | [0238-product-of-array-except-self](https://github.com/ManaviAwasthi/dsa/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/ManaviAwasthi/dsa/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/ManaviAwasthi/dsa/tree/master/0724-find-pivot-index) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManaviAwasthi/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ManaviAwasthi/dsa/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2574-left-and-right-sum-differences](https://github.com/ManaviAwasthi/dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/ManaviAwasthi/dsa/tree/master/3903-smallest-stable-index-i) |
@@ -307,6 +309,7 @@
 | [1406-stone-game-iii](https://github.com/ManaviAwasthi/dsa/tree/master/1406-stone-game-iii) |
 | [1492-the-kth-factor-of-n](https://github.com/ManaviAwasthi/dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1510-stone-game-iv](https://github.com/ManaviAwasthi/dsa/tree/master/1510-stone-game-iv) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManaviAwasthi/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ManaviAwasthi/dsa/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManaviAwasthi/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2165-smallest-value-of-the-rearranged-number](https://github.com/ManaviAwasthi/dsa/tree/master/2165-smallest-value-of-the-rearranged-number) |
@@ -495,4 +498,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ManaviAwasthi/dsa/tree/master/0836-rectangle-overlap) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/ManaviAwasthi/dsa/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
+## Combinatorics
+|  |
+| ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ManaviAwasthi/dsa/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 <!---LeetCode Topics End-->
