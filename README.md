@@ -16,6 +16,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/ManaviAwasthi/dsa/tree/master/2405-optimal-partition-of-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ManaviAwasthi/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ManaviAwasthi/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
@@ -31,6 +32,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/ManaviAwasthi/dsa/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/2390-removing-stars-from-a-string) |
 | [3100-water-bottles-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3100-water-bottles-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/ManaviAwasthi/dsa/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/ManaviAwasthi/dsa/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/ManaviAwasthi/dsa/tree/master/3614-process-string-with-special-operations-ii) |
 ## Array
